@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: b2sky-core-infrastructure
+Implementation-Version: 0.2.0-SNAPSHOT
+Built-By: Philip
+Implementation-Vendor-Id: B2W
+Build-Jdk: 1.8.0_92
+Implementation-URL: http://projects.spring.io/spring-boot/b2sky-osiris
+ /
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
